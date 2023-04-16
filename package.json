@@ -1,0 +1,16 @@
+{
+  "name": "keypair-and-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.75.0",
+    "@types/node": "^18.15.11",
+    "node-fetch": "^3.3.1"
+  }
+}
